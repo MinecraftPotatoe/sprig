@@ -3,8 +3,9 @@ This is my first game. Feel free to remix and add your own drawings (in the leve
 
 @title: Redraw
 @author: Max
-@tags: []
-@addedOn: 2025-00-00
+@description: A game where you memorize and redraw motives as best as you can
+@tags: ["memory"]
+@addedOn: 2026-02-16
 */
 
 function get_width(map){
